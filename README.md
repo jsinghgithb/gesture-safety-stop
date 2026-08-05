@@ -1,11 +1,12 @@
  ROS 2 Vision-Triggered Safety Stop System
 
 A modular ROS 2 (Jazzy) system demonstrating real-time computer vision integration with robot velocity control. The system processes live video feeds to detect hand gestures and immediately triggers an emergency stop sequence on a simulated robot actor.
-![System Overview](media/system_overview.png)
+
 
 ---
 
 ## System Overview & Demonstration
+![System Overview](media/system_overview.png)
 
 # Demonstration
 ![System Demo](media/demo.gif)
